@@ -17,6 +17,7 @@ public class NewClass {
             if (product > largest)          // 1 step
                 largest = product;          // 1 step
         }
+
         return largest;                     // 1 step
     }
 }
